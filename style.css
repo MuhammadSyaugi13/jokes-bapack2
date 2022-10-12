@@ -1,0 +1,16 @@
+body {
+    font-family: 'Amaranth', sans-serif;
+    font-family: 'Caveat Brush', cursive;
+}
+
+.title-text {
+    font-size: 60px;
+}
+
+.modal-body {
+    font-size: 25px;
+}
+
+.bg-modal {
+    background-color: rgb(221, 221, 221);
+}
